@@ -1,0 +1,18 @@
+{
+  "loi_nhuan": 25, 
+  "cong_suat_watt": 310,
+  "tien_cong_moi_gio": 10000,
+  "hao_mon_moi_gio": 5000,
+  "gia_dien": {
+    "bac1": 1984,
+    "bac2": 2050,
+    "bac3": 2380,
+    "bac4": 2998
+  },
+  "gia_nhua": {
+    "PLA": 210000,
+    "PLA+": 260000,
+    "ABS": 160000,
+    "PETG": 160000
+  }
+}
